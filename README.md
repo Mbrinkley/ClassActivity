@@ -1,2 +1,2 @@
-# ClassActivity-
+# ClassActivity
 basic webpage activity 
